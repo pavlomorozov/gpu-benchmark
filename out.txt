@@ -1,0 +1,4 @@
+# python3 gpu_benchmark.py
+Total windows: 10140, Window size: 60
+CPU correlation matrix time: 0.9891 seconds
+GPU (CuPy) correlation matrix time: 0.0025 seconds
